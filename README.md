@@ -49,10 +49,4 @@ result_lable.config(text=f"Sum: {num1 + num2}")
 
 Pull requests are welcome. For larger changes, please open an issue first to discuss what you'd like to change.
 
-## License
 
-This project is provided under the MIT License. See `LICENSE` if included.
-
----
-
-If you want, I can also help create a `LICENSE`, add tests, or prepare a `.gitignore` and a short commit history for pushing to GitHub. 😊
